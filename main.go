@@ -14,4 +14,5 @@ func main() {
 	fmt.Println("Serveur démarré sur http://localhost:8080")
 	log.Fatal(http.ListenAndServe(":8080", nil))
 }
-func tacos(){}
+
+func tacos() {}

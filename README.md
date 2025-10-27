@@ -7,6 +7,8 @@ Ce projet est un site web développé en Go qui affiche une page vide pour le mo
 
 Le site affiche pour le moment une page vide. Deux fonctionnalité sera développée en parallèle, depuis la branche dev déjà existante.
 
+Bonjour
+
 ## Installation
 
 ```bash

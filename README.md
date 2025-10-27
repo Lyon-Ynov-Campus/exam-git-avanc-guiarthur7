@@ -9,6 +9,12 @@ Le site affiche pour le moment une page vide. Deux fonctionnalité sera dévelop
 
 ## Installation
 
+## Différence entre git revert et git reset
+
+git revert ça crée un nouveau commit qui annule les changement d'un commit précédent en gardant l'historique
+
+git reset  sert à annuler les modifications du dernier commit et de revenir à un commit spécifique, ça supprime les commits suivant
+
 ```bash
 go mod tidy
 go run main.go
